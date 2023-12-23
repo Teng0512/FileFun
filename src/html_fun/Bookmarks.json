@@ -1,0 +1,1309 @@
+{
+   "checksum": "4949ea5d82cdf791c085e7457bb6f1f2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13314625312476905",
+               "date_last_used": "0",
+               "guid": "e11b6d01-f947-4602-a00b-fc72125fcd4f",
+               "id": "3",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "百度翻译-200种语言互译、沟通全世界！",
+               "type": "url",
+               "url": "https://fanyi.baidu.com//?channel=pcPinzhuan#/"
+            }, {
+               "date_added": "13314625795895037",
+               "date_last_used": "0",
+               "guid": "5809a7d9-95b1-494f-aa53-08bb805386fa",
+               "id": "4",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": " CSDN - 专业开发者社区",
+               "type": "url",
+               "url": "https://www.csdn.net/"
+            }, {
+               "date_added": "13314626892586214",
+               "date_last_used": "0",
+               "guid": "a6906cb8-9b1d-4416-9259-f6af747516ee",
+               "id": "5",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "百度一下，你就知道",
+               "type": "url",
+               "url": "http://bd.bh023.hhycrcp.com/wsobd"
+            }, {
+               "date_added": "13325494545489073",
+               "date_last_used": "0",
+               "guid": "24b1d56b-d3c3-498b-9d61-0e17e5a3985e",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "码商商城",
+               "type": "url",
+               "url": "http://101.34.221.219:8010/"
+            }, {
+               "date_added": "13325760651640674",
+               "date_last_used": "0",
+               "guid": "b8d8ef7a-9291-4969-a481-6b9b0c1c82ed",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "在线JSON校验格式化工具（Be JSON）",
+               "type": "url",
+               "url": "https://www.bejson.com/"
+            }, {
+               "date_added": "13325927427503515",
+               "date_last_used": "0",
+               "guid": "f59bc646-422b-4111-a640-420db39c54b3",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "LFhacks.com",
+               "type": "url",
+               "url": "https://www.lfhacks.com/index.html"
+            }, {
+               "date_added": "13327343073222635",
+               "date_last_used": "0",
+               "guid": "3a31e839-caae-4811-934d-bfaf226cd7ac",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "用Jenkins自动化搭建测试环境-慕课网",
+               "type": "url",
+               "url": "https://www.imooc.com/learn/1008"
+            }, {
+               "date_added": "13327402739431042",
+               "date_last_used": "0",
+               "guid": "08f219e8-7886-479e-bd30-70f142e9277a",
+               "id": "34",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "WebDriver官网",
+               "type": "url",
+               "url": "https://www.w3.org/TR/webdriver/"
+            }, {
+               "date_added": "13327403051814491",
+               "date_last_used": "0",
+               "guid": "9ab0ae46-7949-4699-83fd-8b2feedbf74e",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "测试用例 | Apifox 帮助文档",
+               "type": "url",
+               "url": "https://apifox.com/help/app/test-manage/test-case/"
+            }, {
+               "date_added": "13327403943789557",
+               "date_last_used": "0",
+               "guid": "b8e7a599-7017-4515-b6dc-41d5590231d8",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "如何用python进行接口测试（详细教程）_python_锦都不二-DevPress官方社区",
+               "type": "url",
+               "url": "https://eolink.csdn.net/63806a4ddacf622b8df8749e.html?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~OPENSEARCH~activity-1-124802037-blog-130233707.235^v32^pc_relevant_default_base3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~OPENSEARCH~activity-1-124802037-blog-130233707.235^v32^pc_relevant_default_base3&utm_relevant_index=1"
+            }, {
+               "date_added": "13327784471904532",
+               "date_last_used": "0",
+               "guid": "e5217945-d167-4eb7-895a-4ed72cae0785",
+               "id": "38",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "百度翻译-200种语言互译、沟通全世界！",
+               "type": "url",
+               "url": "https://fanyi.baidu.com/"
+            }, {
+               "date_added": "13327858236346043",
+               "date_last_used": "0",
+               "guid": "735f6bfd-6483-4979-8484-cbc6963a7661",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "粉笔网题库",
+               "type": "url",
+               "url": "https://www.fenbi.com/spa/tiku/exam/practice/jdwz/jdwzgg/1510604215/3?exerciseTimeMode=2"
+            }, {
+               "date_added": "13327859938358820",
+               "date_last_used": "0",
+               "guid": "76cb9369-1cc5-4d2b-bb3c-83a3ea478fdb",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+               "type": "url",
+               "url": "https://www.bilibili.com/"
+            }, {
+               "date_added": "13328391718791082",
+               "date_last_used": "0",
+               "guid": "98f2c9c5-f6b4-4690-bbdc-734c7d1faa6d",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "grid中webdriver.Remote用法",
+               "type": "url",
+               "url": "https://www.shuzhiduo.com/topic/grid%E4%B8%ADwebdriver-remote%E7%94%A8%E6%B3%95/"
+            }, {
+               "date_added": "13328540791892087",
+               "date_last_used": "0",
+               "guid": "b4aee730-5517-4ee5-bd7a-ba23d6469f24",
+               "id": "45",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Jenkins系列教程～录制计划（志愿者、讲师、社区合作持续招募中） · Issue #345 · jenkins-zh/jenkins-zh · GitHub",
+               "type": "url",
+               "url": "https://github.com/jenkins-zh/jenkins-zh/issues/345"
+            }, {
+               "children": [ {
+                  "date_added": "13328560397549724",
+                  "date_last_used": "0",
+                  "guid": "37b0a44b-fb32-41f9-855c-ff37d1ca7f99",
+                  "id": "46",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "GitHub - codernmx/pycode: Python小工具合集，包括发送邮件，文字识别，获取天气数据，哔哩哔哩弹幕，网易云音乐评论 ，turtle画图，爬虫，贝壳二手房房源数据，二手房可视化，51JOB，猫眼Top榜，微博文章，微博评论，微博热搜榜，CBA数据，批量下载图片，可视化，冰墩墩，佩奇，插画，火柴人，兔子（turtle），樱花树，玲娜贝儿，生日蛋糕，求个星星。",
+                  "type": "url",
+                  "url": "https://github.com/codernmx/pycode"
+               }, {
+                  "date_added": "13328566591248846",
+                  "date_last_used": "0",
+                  "guid": "452278e7-2bb5-4987-b8d6-93d2c3ee36bf",
+                  "id": "50",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "斗鱼开放平台",
+                  "type": "url",
+                  "url": "https://open.douyu.com/source/api/37"
+               } ],
+               "date_added": "13328560416014549",
+               "date_last_used": "0",
+               "date_modified": "13328568914477156",
+               "guid": "bf8a579d-3f87-4053-ab06-3763e5d8c1c4",
+               "id": "47",
+               "name": "B站学习",
+               "type": "folder"
+            }, {
+               "date_added": "13328565688222771",
+               "date_last_used": "0",
+               "guid": "f7f6a661-c92b-48f7-9a2c-8fd7a75f58d9",
+               "id": "49",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GET,POST接口测试工具 - 麦谈帮数据 - 数据API接口",
+               "type": "url",
+               "url": "https://www.maitanbang.com/test/"
+            }, {
+               "children": [ {
+                  "date_added": "13328730117132978",
+                  "date_last_used": "0",
+                  "guid": "b267f075-2599-47b4-9699-318c5eb4d59d",
+                  "id": "54",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "慕课网-校园二手交易系统",
+                  "type": "url",
+                  "url": "http://www.tcpjwtester.top/"
+               }, {
+                  "date_added": "13330388558275020",
+                  "date_last_used": "0",
+                  "guid": "0420ef83-ce0d-48ec-a321-4330ff1d0366",
+                  "id": "71",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "163网易免费邮-你的专业电子邮局",
+                  "type": "url",
+                  "url": "https://mail.163.com/"
+               } ],
+               "date_added": "13328730147689537",
+               "date_last_used": "0",
+               "date_modified": "13330390393683307",
+               "guid": "30965a73-8e58-419d-9eae-c4eb7a08bff9",
+               "id": "55",
+               "name": "测试网站",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13328730733536229",
+                  "date_last_used": "0",
+                  "guid": "c0317525-91f6-4781-b90c-3306e446c6ff",
+                  "id": "56",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Jenkins集成allure测试报告 - linux超 - 博客园",
+                  "type": "url",
+                  "url": "https://www.cnblogs.com/linuxchao/p/linuxchao-jenkins-allure.html"
+               }, {
+                  "date_added": "13329231792789425",
+                  "date_last_used": "0",
+                  "guid": "bd8fd556-eabe-447f-b190-1de4453ec5a9",
+                  "id": "59",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "帐号设置 - 幕布",
+                  "type": "url",
+                  "url": "https://mubu.com/settings#"
+               }, {
+                  "date_added": "13329988005510295",
+                  "date_last_used": "0",
+                  "guid": "ec618724-1a0a-42bf-8141-cf799c04910f",
+                  "id": "69",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "文字识别-百度智能云",
+                  "type": "url",
+                  "url": "https://cloud.baidu.com/doc/OCR/index.html"
+               }, {
+                  "date_added": "13330439699113419",
+                  "date_last_used": "0",
+                  "guid": "464f0ad9-ea16-4aed-b45d-f66de4799fef",
+                  "id": "74",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "首页 - boardmix",
+                  "type": "url",
+                  "url": "https://boardmix.cn/app/home"
+               } ],
+               "date_added": "13328730756040185",
+               "date_last_used": "0",
+               "date_modified": "13330653778948318",
+               "guid": "1056d466-af72-424d-a5c7-d723f8bd57fe",
+               "id": "57",
+               "name": "技术文档相关",
+               "type": "folder"
+            } ],
+            "date_added": "13314625279019312",
+            "date_last_used": "0",
+            "date_modified": "13328566591248846",
+            "guid": "4fc699e6-e7f3-4de7-a5ba-57fc289a3fc1",
+            "id": "2",
+            "name": "study",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13325495550736634",
+               "date_last_used": "0",
+               "guid": "775b4f55-a42e-4d44-ae1e-c02e5d21569b",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "订单售后取消 - API接口文档 - 码尚文档管理系统",
+               "type": "url",
+               "url": "http://118.24.147.95:8088/article/2/288125695236767744.html"
+            }, {
+               "date_added": "13325412902563193",
+               "date_last_used": "0",
+               "guid": "fd4ed4a0-99a0-4282-8616-8ac017638def",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "课堂派-简单好用的互动课堂管理工具",
+               "type": "url",
+               "url": "https://www.ketangpai.com/#/main/classDetail?courseid=MDAwMDAwMDAwMLOGvdyHqclshqVyoQ&courserole=0&submodulename=0"
+            }, {
+               "date_added": "13325495679527531",
+               "date_last_used": "0",
+               "guid": "3f24426d-f95e-428b-83fd-409627584e47",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "码尚教育接口文档--ShowDoc",
+               "type": "url",
+               "url": "http://47.107.116.139/showdoc/web/?#/1?page_id=14"
+            }, {
+               "date_added": "13314678839756966",
+               "date_last_used": "0",
+               "guid": "2a2ae8fd-95d2-4d49-a3c2-2a398b370fa4",
+               "id": "6",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "腾讯课堂",
+               "type": "url",
+               "url": "https://ke.qq.com/user/index/index.html#/plan/cid=3062701&term_id=103973015"
+            }, {
+               "date_added": "13316325687099149",
+               "date_last_used": "0",
+               "guid": "d0715af1-be89-4fc0-8ab8-37ae0e26c0d3",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "微信官方文档",
+               "type": "url",
+               "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/"
+            }, {
+               "date_added": "13325508004116507",
+               "date_last_used": "0",
+               "guid": "b65a4559-fc3f-4f53-97a8-53e9859d7c6a",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "新分类 - phpwind 9.0 - Powered by phpwind",
+               "type": "url",
+               "url": "http://47.107.116.139/phpwind/index.php?c=cate&fid=1"
+            }, {
+               "date_added": "13345461355244348",
+               "date_last_used": "0",
+               "guid": "9502b38f-b9fc-4569-856d-45efaa23c493",
+               "id": "136",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "码尚教育课堂",
+               "type": "url",
+               "url": "https://appyeyrscp42282.pc.xiaoe-tech.com/page/4586240"
+            } ],
+            "date_added": "13325927468737062",
+            "date_last_used": "0",
+            "date_modified": "13345471655999695",
+            "guid": "d20b7082-38c7-4c5c-be36-a4f12418f9ec",
+            "id": "21",
+            "name": "码上相关",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13325927735937878",
+               "date_last_used": "0",
+               "guid": "d74122cb-5836-4c9a-a048-cba92db711e4",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Python3 File 方法 | 菜鸟教程",
+               "type": "url",
+               "url": "https://www.runoob.com/python3/python3-file-methods.html"
+            }, {
+               "children": [ {
+                  "date_added": "13329927960050963",
+                  "date_last_used": "0",
+                  "guid": "ef36a147-67ed-41bb-a01c-9d6dccd3093a",
+                  "id": "64",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "devilmaycry812839668 (devilmaycry812839668) / Repositories · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/devilmaycry812839668?tab=repositories"
+               }, {
+                  "date_added": "13330390393683307",
+                  "date_last_used": "0",
+                  "guid": "564ed803-0d5e-47c9-ae8e-9ab2649f5bc1",
+                  "id": "72",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "[转]python发邮件smtplib和email模块详解 - freeliver54 - 博客园",
+                  "type": "url",
+                  "url": "https://www.cnblogs.com/freeliver54/p/17069370.html"
+               } ],
+               "date_added": "13329927953911806",
+               "date_last_used": "0",
+               "date_modified": "13330439699113419",
+               "guid": "0b1cc6c3-a3ca-4157-bec8-fe2a54e05d6c",
+               "id": "63",
+               "name": "牛人",
+               "type": "folder"
+            }, {
+               "date_added": "13329928103395210",
+               "date_last_used": "0",
+               "guid": "bfaf99af-3749-4ac5-bc26-f208a4dd9692",
+               "id": "65",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "pytest中文文档 - Death_Knight - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/devilmaycry812839668/p/16440663.html"
+            }, {
+               "date_added": "13329928378054643",
+               "date_last_used": "0",
+               "guid": "9a50bc36-8d87-49ea-8119-a245ceb910b2",
+               "id": "66",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "pytest -- 中文文档 - luizyao - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/luizyao/p/11771740.html"
+            }, {
+               "date_added": "13329987984073382",
+               "date_last_used": "0",
+               "guid": "58c409e3-22fa-4ace-8280-0442d98257fe",
+               "id": "68",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(1条消息) 验证码处理-网络爬虫-CSDNPython入门技能树",
+               "type": "url",
+               "url": "https://edu.csdn.net/skill/python/python-3-158?category=8&typeId=20754"
+            } ],
+            "date_added": "13325927761608016",
+            "date_last_used": "0",
+            "date_modified": "13329988005510295",
+            "guid": "751abaad-fe9f-4de8-959b-065fced9bcb0",
+            "id": "23",
+            "name": "Python相关",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13326975501557889",
+               "date_last_used": "0",
+               "guid": "39a8d76a-d797-4876-b7ee-1ab03cc36942",
+               "id": "26",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "西西软件园-西西游戏网-多重安全的软件下载基地",
+               "type": "url",
+               "url": "https://www.cr173.com/"
+            }, {
+               "date_added": "13326978476224878",
+               "date_last_used": "0",
+               "guid": "d65275ea-fad0-458a-95f2-0bb1505bb947",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitBook - Where technical teams document.",
+               "type": "url",
+               "url": "https://www.gitbook.com/"
+            }, {
+               "date_added": "13326978491376914",
+               "date_last_used": "0",
+               "guid": "ad9f4367-cf05-4d0e-8a27-2e337910f652",
+               "id": "28",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub上整理的一些工具 | 菜鸟教程",
+               "type": "url",
+               "url": "https://www.runoob.com/w3cnote/github-tools.html"
+            }, {
+               "date_added": "13327242390518833",
+               "date_last_used": "0",
+               "guid": "5eba1480-a6d4-45cb-b62b-d6f72bb2722d",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "斗鱼 - 每个人的直播平台",
+               "type": "url",
+               "url": "https://www.douyu.com/"
+            }, {
+               "date_added": "13328568914477156",
+               "date_last_used": "0",
+               "guid": "3c5171da-5860-4917-9fba-17bf7fc839cf",
+               "id": "52",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "斗鱼弹幕数据-播酱数据",
+               "type": "url",
+               "url": "https://bojianger.com/danmu-total.html"
+            }, {
+               "date_added": "13329668663274353",
+               "date_last_used": "0",
+               "guid": "4e7ce4eb-e4f7-4f7e-b402-fe85c6594fdb",
+               "id": "61",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "FPS游戏自动枪械识别+压枪（以PUBG为例）_python_OOCL龙太子-DevPress官方社区",
+               "type": "url",
+               "url": "https://huaweicloud.csdn.net/63806a7bdacf622b8df875a6.html?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-4-124242964-blog-130639025.235%5Ev36%5Epc_relevant_default_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-4-124242964-blog-130639025.235%5Ev36%5Epc_relevant_default_base3&utm_relevant_index=5#1_250"
+            }, {
+               "date_added": "13330653778948318",
+               "date_last_used": "0",
+               "guid": "6f8388a5-cb97-4c57-a483-dbfad9155d9a",
+               "id": "76",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "过了8年，那个好用的可视化网站RAWGraphs 2.0终于更新啦！_邹磊ZouL-站酷ZCOOL",
+               "type": "url",
+               "url": "https://www.zcool.com.cn/article/ZMTIyNjE1Ng==.html"
+            }, {
+               "date_added": "13331351168138918",
+               "date_last_used": "0",
+               "guid": "5f2e9b62-3264-4d9f-ac76-c2b7e7050561",
+               "id": "92",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "2021年最好用＆完全免费的图片压缩网站、软件推荐（含GIF压缩） - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/392083373"
+            }, {
+               "date_added": "13347191522638893",
+               "date_last_used": "0",
+               "guid": "3594c662-ec96-41f5-bf45-6d49c39e072d",
+               "id": "171",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Win10系统官方原版_Win10专业版_Win10原版iso镜像下载 - 系统之家",
+               "type": "url",
+               "url": "https://www.xitongzhijia.net/win10/yuanban/"
+            } ],
+            "date_added": "13326975497709288",
+            "date_last_used": "0",
+            "date_modified": "13347192941866626",
+            "guid": "2922802e-7ee7-4793-90fb-d1acaad8e72d",
+            "id": "25",
+            "name": "软件下载相关",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13330656598528729",
+               "date_last_used": "0",
+               "guid": "4dc75939-8bce-43e4-bfb2-14fa61631368",
+               "id": "78",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "81rc.81.cn",
+               "type": "url",
+               "url": "http://81rc.81.cn/"
+            }, {
+               "date_added": "13330659727057604",
+               "date_last_used": "0",
+               "guid": "d33359e1-3d77-4c9a-b2d6-6cd44fb11135",
+               "id": "79",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "自动化测试框架结构图",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s/zH3iWg4amhqbXKI-_Ov8Ig"
+            }, {
+               "children": [ {
+                  "date_added": "13330919015522095",
+                  "date_last_used": "0",
+                  "guid": "13c95773-4bca-4e92-bf6f-71ae4b680cd3",
+                  "id": "81",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "JMeter如何设置全局变量？ - 51Testing软件测试网",
+                  "type": "url",
+                  "url": "http://www.51testing.com/html/00/n-7794200.html"
+               }, {
+                  "date_added": "13330974732350419",
+                  "date_last_used": "0",
+                  "guid": "c7848517-1ce7-47e6-aa83-c57fedbef0b7",
+                  "id": "84",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "经纬度在线查询,地名(批量)查询经纬度,经纬度(批量)查询地名,google map运用geocoder.geocode实例",
+                  "type": "url",
+                  "url": "https://map.yanue.net/"
+               }, {
+                  "date_added": "13331264070258387",
+                  "date_last_used": "0",
+                  "guid": "9b01f361-93e3-4c98-8b8e-31baf294fdd3",
+                  "id": "88",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "python教程",
+                  "type": "url",
+                  "url": "http://www.piaodoo.com/python"
+               }, {
+                  "date_added": "13331278182122431",
+                  "date_last_used": "0",
+                  "guid": "fe4c1975-d585-4cc5-a370-719ea44a3900",
+                  "id": "90",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "爱码网 - 分享推动技术的发展",
+                  "type": "url",
+                  "url": "https://www.likecs.com/"
+               }, {
+                  "date_added": "13331703881290539",
+                  "date_last_used": "0",
+                  "guid": "e5696a8c-4b1e-40c3-9357-9f0735e3e946",
+                  "id": "95",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "使用简单的文字描述画UML图的开源工具。",
+                  "type": "url",
+                  "url": "https://plantuml.com/zh/"
+               }, {
+                  "date_added": "13332653254502885",
+                  "date_last_used": "0",
+                  "guid": "f4409f3c-3fa7-4732-872c-b4c37f01a3ac",
+                  "id": "101",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "如何用Python创建一个倒计时器|极客教程",
+                  "type": "url",
+                  "url": "https://geek-docs.com/python/python-tutorial/j_how-to-create-a-countdown-timer-using-python.html"
+               }, {
+                  "date_added": "13333038074230561",
+                  "date_last_used": "0",
+                  "guid": "36801290-3533-4846-a8d9-da1ab623cf31",
+                  "id": "113",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(17条消息) 自动化测试软件Ranorex的基本运用_无形道长的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/magicchz/article/details/125404472?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168852456016800197026431%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168852456016800197026431&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-2-125404472-null-null.142^v88^control_2,239^v2^insert_chatgpt&utm_term=Ranorex%20Studio%E4%BD%BF%E7%94%A8&spm=1018.2226.3001.4187"
+               }, {
+                  "date_added": "13333079569716339",
+                  "date_last_used": "0",
+                  "guid": "21f0ca94-80b9-472c-b656-d92cb60c7234",
+                  "id": "115",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "开源众包-百万开发者,为您提供专业的软件开发服务",
+                  "type": "url",
+                  "url": "https://zb.oschina.net/"
+               }, {
+                  "date_added": "13333079909354415",
+                  "date_last_used": "0",
+                  "guid": "b0bcae25-a7df-465f-9869-5e832ed9ffb0",
+                  "id": "117",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "程序员客栈-领先的程序员自由工作平台-程序员兼职",
+                  "type": "url",
+                  "url": "https://www.proginn.com/"
+               }, {
+                  "date_added": "13333080061291639",
+                  "date_last_used": "0",
+                  "guid": "3f9695cd-0b2e-487b-8577-8c02f6d5cba1",
+                  "id": "118",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "码市 - 互联网软件外包服务平台",
+                  "type": "url",
+                  "url": "https://www.codemart.com/"
+               }, {
+                  "date_added": "13345198691213326",
+                  "date_last_used": "0",
+                  "guid": "68a01269-9a53-444f-973a-7f156543db5d",
+                  "id": "130",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区",
+                  "type": "url",
+                  "url": "https://developer.aliyun.com/mirror/"
+               }, {
+                  "date_added": "13346176781200367",
+                  "date_last_used": "0",
+                  "guid": "717cf55a-c4f1-431c-bba4-513d8762e2bb",
+                  "id": "154",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Fiddler(一)fiddler一直弹出certificate error - 开发者博客",
+                  "type": "url",
+                  "url": "https://tool.4xseo.com/a/6304.html"
+               }, {
+                  "date_added": "13346905558239386",
+                  "date_last_used": "0",
+                  "guid": "343d73c0-4241-4fd9-8200-963651ac634e",
+                  "id": "166",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "爬虫外包服务需求|企业服务项目搜索按发布时间排序-猪八戒网",
+                  "type": "url",
+                  "url": "https://www.zbj.com/xq/?k=%E7%88%AC%E8%99%AB&st=1&r=4"
+               }, {
+                  "date_added": "13346993820155198",
+                  "date_last_used": "0",
+                  "guid": "bf4d46c2-1665-4e76-9efa-3d95cd90d414",
+                  "id": "168",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Variant Form低代码可视化表单 | Variant Form低代码可视化表单",
+                  "type": "url",
+                  "url": "https://vform666.com/"
+               } ],
+               "date_added": "13330919043185341",
+               "date_last_used": "0",
+               "date_modified": "13347189075800986",
+               "guid": "d5f7e59b-eebe-4738-a7bf-03073d14710d",
+               "id": "82",
+               "name": "重要软件测试技术",
+               "type": "folder"
+            }, {
+               "date_added": "13331184629854839",
+               "date_last_used": "0",
+               "guid": "87dc7fcb-6445-446b-99a7-e087a3e558cc",
+               "id": "86",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "2023年面向社会招聘专业技能岗位文职人员",
+               "type": "url",
+               "url": "http://211.166.6.67:9001/tyzpwb/stulogout/logout.htm?jsessionid="
+            }, {
+               "date_added": "13331351390180389",
+               "date_last_used": "0",
+               "guid": "2a3474ce-d266-4fd3-9d1a-f8cac90e0f03",
+               "id": "93",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "资格审核系统",
+               "type": "url",
+               "url": "http://101.200.161.27/zgsh/#/index_f"
+            }, {
+               "date_added": "13331881424765472",
+               "date_last_used": "0",
+               "guid": "e3a0eec1-ce7f-4d9f-919a-8e4690c4eca3",
+               "id": "97",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "十九届六中全会_共产党员网",
+               "type": "url",
+               "url": "https://www.12371.cn/special/19jlzqh/"
+            }, {
+               "date_added": "13331987291769552",
+               "date_last_used": "0",
+               "guid": "02791a43-968e-4ead-8264-717eebae0bcd",
+               "id": "99",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "【官方网站】职业考证教育在线网络平台 - 慧考智学",
+               "type": "url",
+               "url": "https://www.huikao8.com/"
+            }, {
+               "date_added": "13332672549245942",
+               "date_last_used": "0",
+               "guid": "877b6d1d-a7f1-4243-b8e2-3c6be87cb1e0",
+               "id": "102",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "webhub123",
+               "type": "url",
+               "url": "https://www.webhub123.com/#/home/detail?projectHashid=46570740&ownerUserid=10742848"
+            }, {
+               "children": [ {
+                  "date_added": "13332690523193047",
+                  "date_last_used": "0",
+                  "guid": "f223c38b-5ac7-4188-8f5a-511396c4b2cf",
+                  "id": "104",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "司马法全文原文-译文-国学梦",
+                  "type": "url",
+                  "url": "http://www.guoxuemeng.com/guoxue/simafa/"
+               }, {
+                  "date_added": "13332690677632979",
+                  "date_last_used": "0",
+                  "guid": "5eadb804-1668-4683-9165-2d1219a5737d",
+                  "id": "106",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "司马法原文及白话文阅读_作者姜子牙_国学荟",
+                  "type": "url",
+                  "url": "https://www.gushicimingju.com/dianji/simafa/"
+               } ],
+               "date_added": "13332690544216803",
+               "date_last_used": "0",
+               "date_modified": "13332690677632979",
+               "guid": "e1365c7b-ebce-46f8-9278-07c47330a43e",
+               "id": "105",
+               "name": "重要诗文",
+               "type": "folder"
+            }, {
+               "date_added": "13333161953576210",
+               "date_last_used": "0",
+               "guid": "1c9475ee-428c-4991-81d6-504f4331d6ba",
+               "id": "120",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "十六进制的A_百度搜索",
+               "type": "url",
+               "url": "https://www.baidu.com/s?wd=%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E7%9A%84A&rsv_spt=1&rsv_iqid=0xed79b4fb000cf950&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&oq=%25E5%258D%2581%25E5%2585%25AD%25E8%25BF%259B%25E5%2588%25B6%25E8%25BD%25AC%25E6%258D%25A2%25E6%2588%2590%25E5%258D%2581%25E8%25BF%259B%25E5%2588%25B6&rsv_t=dc0av5l1JCAVWXBhIAEOX8H2pbQIEeacTRAONAdAwOgJjOwEiaYWgmOTpsDGADZKwrXC&rsv_btype=t&inputT=4871&rsv_sug3=34&rsv_sug1=19&rsv_sug7=100&rsv_pq=e26e0c6f0018a092&rsv_sug2=0&rsv_sug4=6157"
+            } ],
+            "date_added": "13330656595591520",
+            "date_last_used": "0",
+            "date_modified": "13333161957695154",
+            "guid": "77083664-8355-4a3e-b483-465216cfe1ea",
+            "id": "77",
+            "name": "重要",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13332907223258437",
+               "date_last_used": "0",
+               "guid": "b95fbb33-f6c1-41f1-8770-06248fac4079",
+               "id": "109",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "插入表格 - Microsoft 支持",
+               "type": "url",
+               "url": "https://support.microsoft.com/zh-cn/office/%E6%8F%92%E5%85%A5%E8%A1%A8%E6%A0%BC-a138f745-73ef-4879-b99a-2f3d38be612a?redirectSourcePath=%252fzh-tw%252farticle%252f%2525E7%2525B9%2525AA%2525E8%2525A3%2525BD%2525E8%2525A1%2525A8%2525E6%2525A0%2525BC-c7263ba1-49a8-4045-aa89-506431a70f8d"
+            } ],
+            "date_added": "13332907218473133",
+            "date_last_used": "0",
+            "date_modified": "13332907226112929",
+            "guid": "77449841-acad-4438-825f-96b7339b1d25",
+            "id": "108",
+            "name": "文件操作类",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13333001300363374",
+               "date_last_used": "0",
+               "guid": "3e3f87e7-5d18-4a81-ba14-b65b6ef04716",
+               "id": "112",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "口罩事件后，社会逐渐出现“6大怪象”，个个让老百姓难受！",
+               "type": "url",
+               "url": "https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8740443319578230251%22%7D&n_type=-1&p_from=-1"
+            }, {
+               "children": [ {
+                  "date_added": "13333380003107150",
+                  "date_last_used": "0",
+                  "guid": "4fabb56d-b17c-4a6a-afb7-e52004c895e4",
+                  "id": "123",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "甘肃人才网平凉分站-甘肃省唯一省人才市场",
+                  "type": "url",
+                  "url": "https://pl.gszhaopin.com/"
+               }, {
+                  "date_added": "13333380009114917",
+                  "date_last_used": "0",
+                  "guid": "bba4f193-8fa4-43f3-a9ce-28f3addf0c02",
+                  "id": "124",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "甘肃人才网-甘肃省唯一省人才市场",
+                  "type": "url",
+                  "url": "https://www.gszhaopin.com/"
+               }, {
+                  "date_added": "13333380426280123",
+                  "date_last_used": "0",
+                  "guid": "d0509cd9-4f08-4ffa-b557-c9114a0e38f6",
+                  "id": "125",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "西北人才网、甘肃人力资源网、兰州人才招聘信息，西部招聘最佳平台，10年品质，值得信赖",
+                  "type": "url",
+                  "url": "http://www.xbrc.com.cn/"
+               }, {
+                  "date_added": "13333380985059454",
+                  "date_last_used": "0",
+                  "guid": "de7630d6-b569-4523-8e39-87e791e60442",
+                  "id": "126",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "上海人才网,xshrcw.com,上海求职招聘门户网站欢迎您!",
+                  "type": "url",
+                  "url": "https://www.xshrcw.com/m_index.html"
+               }, {
+                  "date_added": "13333381081455904",
+                  "date_last_used": "0",
+                  "guid": "fd3bcc93-be6e-4f86-8d37-26c76c8733c3",
+                  "id": "127",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "BOSS直聘",
+                  "type": "url",
+                  "url": "https://www.zhipin.com/web/geek/job?query=%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95&city=101020100"
+               }, {
+                  "date_added": "13333382606873496",
+                  "date_last_used": "0",
+                  "guid": "1c0d5413-ca4a-4f25-baf6-1cd385ff70b8",
+                  "id": "128",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "商品分类-中国人事考试图书网",
+                  "type": "url",
+                  "url": "https://rsks.class.com.cn/goods/list?categoryId=199&channel=cpta_body1"
+               } ],
+               "date_added": "13333379998776762",
+               "date_last_used": "0",
+               "date_modified": "13345198691213326",
+               "guid": "2a1655aa-7d11-4852-b39c-68f4b85d7fdf",
+               "id": "122",
+               "name": "招聘",
+               "type": "folder"
+            }, {
+               "date_added": "13347189075800986",
+               "date_last_used": "0",
+               "guid": "a12d6d35-4ac8-4435-9e0d-28cc76b5640b",
+               "id": "170",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "下载官方Windows系统镜像的网站 - 桃花落，闲池阁 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/peach-blossoms/p/15265351.html"
+            } ],
+            "date_added": "13333001297520343",
+            "date_last_used": "0",
+            "date_modified": "13347191522638893",
+            "guid": "c1773f28-660c-4d3b-a19e-81a001367cf8",
+            "id": "111",
+            "name": "社会现象",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13345274483966308",
+                  "date_last_used": "0",
+                  "guid": "03b832ef-9cbc-4752-8ce4-94a968c6f3f4",
+                  "id": "131",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "懂了！VMware/KVM/Docker原来是这么回事儿-阿里云开发者社区",
+                  "type": "url",
+                  "url": "https://developer.aliyun.com/article/768343"
+               }, {
+                  "date_added": "13345471655999695",
+                  "date_last_used": "0",
+                  "guid": "6b696d65-b24f-4a36-85ed-5422c52200b2",
+                  "id": "137",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "云原生之Docker镜像原理 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/608530457"
+               }, {
+                  "date_added": "13345471665419027",
+                  "date_last_used": "0",
+                  "guid": "1f506b2a-aaad-4418-9dc9-c3ea089d40f0",
+                  "id": "138",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Docker镜像是什么原理？Dockerfile是什么?_docker镜像 原理-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/PIKapikaaaa/article/details/131510452"
+               } ],
+               "date_added": "13345274537351030",
+               "date_last_used": "0",
+               "date_modified": "13345636921543302",
+               "guid": "99c945df-aeca-4f11-8f7f-c8772b96a959",
+               "id": "133",
+               "name": "docker",
+               "type": "folder"
+            }, {
+               "date_added": "13345461117281962",
+               "date_last_used": "0",
+               "guid": "83e30851-db36-4d78-8e21-315790bc79ba",
+               "id": "135",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "路飞学城 - 帮助有志向的年轻人通过努力学习获得体面工作",
+               "type": "url",
+               "url": "https://www.luffycity.com/actual-course?page=1"
+            }, {
+               "date_added": "13345960311792276",
+               "date_last_used": "0",
+               "guid": "70e46bdc-0187-46cb-a204-e3fa0d400b89",
+               "id": "147",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Docker安装MySQL教程_docker 安装mysql_Edisonzwq的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/m0_63364103/article/details/131243025"
+            }, {
+               "date_added": "13345970792851106",
+               "date_last_used": "0",
+               "guid": "38f96ea0-3fc9-4787-baee-3cf35d087732",
+               "id": "149",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "如何在Linux系统中使用Cat命令 [22个典型示例] - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/638108440"
+            } ],
+            "date_added": "13345274517156606",
+            "date_last_used": "0",
+            "date_modified": "13345981955618106",
+            "guid": "39fb6137-f196-4b29-b1ad-9bed0431d1a5",
+            "id": "132",
+            "name": "Linux_VM_docker",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13345636921543302",
+               "date_last_used": "0",
+               "guid": "0a234219-95ba-46dc-8270-7c39077d73be",
+               "id": "140",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "生活垃圾焚烧发电厂自动监测数据公开平台",
+               "type": "url",
+               "url": "https://ljgk.envsc.cn/"
+            }, {
+               "date_added": "13345637035606872",
+               "date_last_used": "0",
+               "guid": "a2b5b9f2-5d4a-495b-a162-5f5ee00d6107",
+               "id": "142",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "安化人才网",
+               "type": "url",
+               "url": "https://www.0737anhua.com/search"
+            }, {
+               "date_added": "13345639045237225",
+               "date_last_used": "0",
+               "guid": "c8439177-2052-4b97-9a99-b646830902f8",
+               "id": "143",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "日记本 - 文集 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/nb/51172305"
+            }, {
+               "date_added": "13345805252471938",
+               "date_last_used": "0",
+               "guid": "82d19375-5f6f-4b50-ac50-4327d70c4751",
+               "id": "145",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "免费私密代理IP_IP代理_HTTP代理 - 快代理",
+               "type": "url",
+               "url": "https://www.kuaidaili.com/free/"
+            }, {
+               "date_added": "13345981955618106",
+               "date_last_used": "0",
+               "guid": "7f8d6198-9213-42f7-b287-f7d3cca76fdd",
+               "id": "150",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Python中关键字yield有什么作用-Python教程-PHP中文网",
+               "type": "url",
+               "url": "https://www.php.cn/faq/419914.html"
+            }, {
+               "date_added": "13346040253448991",
+               "date_last_used": "0",
+               "guid": "83c9db31-cbd1-4215-82d2-5aa0ed5c1a29",
+               "id": "152",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dns查询|dns查询--站长工具",
+               "type": "url",
+               "url": "https://tool.chinaz.com/dns/hub.docker.com"
+            }, {
+               "date_added": "13346384545913037",
+               "date_last_used": "0",
+               "guid": "4c2e51d9-a7fc-4d02-8bb9-ffc38883d3d8",
+               "id": "156",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "聊天对象 — wxpy 0.3.9.8 文档",
+               "type": "url",
+               "url": "https://wxpy.readthedocs.io/zh/latest/chats.html"
+            }, {
+               "date_added": "13346389954584856",
+               "date_last_used": "0",
+               "guid": "f7df7def-b0c1-4fc6-af94-4b5f5a48463d",
+               "id": "157",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "基于hook的python机器人,彻底取代itchat - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/114214846"
+            }, {
+               "date_added": "13346501059809735",
+               "date_last_used": "0",
+               "guid": "82bf1495-fba5-429d-a4eb-ac4bfeb9ff8f",
+               "id": "159",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ParryQiu/wxopenclub-wxapp-lessons: 60 节微信小程序开发视频教程配套源代码",
+               "type": "url",
+               "url": "https://github.com/ParryQiu/wxopenclub-wxapp-lessons"
+            }, {
+               "date_added": "13346501147721851",
+               "date_last_used": "0",
+               "guid": "eea27729-b937-4269-9d9b-2e70b5364955",
+               "id": "160",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[原创] 微信天气预报小程序实战开发 - DevOpen.Club | 高质量的软件开发视频教程",
+               "type": "url",
+               "url": "https://devopen.club/course/wxminiappweather"
+            }, {
+               "date_added": "13346564534598595",
+               "date_last_used": "0",
+               "guid": "646749ab-ae6b-41a9-8cdb-39a6296a5164",
+               "id": "162",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Django 安装报错：SyntaxError: invalid syntax|极客笔记",
+               "type": "url",
+               "url": "https://deepinout.com/django/django-questions/133_django_django_19_installation_syntaxerror_invalid_syntax.html"
+            }, {
+               "date_added": "13346853889595805",
+               "date_last_used": "0",
+               "guid": "914454cc-6553-4feb-8c33-33ed494d55c3",
+               "id": "164",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "如何管理静态文件（如图片、JavaScript、CSS） | Django 文档 | Django",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/zh-hans/4.2/howto/static-files/"
+            }, {
+               "date_added": "13347192941866626",
+               "date_last_used": "0",
+               "guid": "68d88ce7-72fe-4c76-8321-acd156fb2faa",
+               "id": "172",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[63]PhantomJS - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/339367601"
+            }, {
+               "date_added": "13347193000737222",
+               "date_last_used": "0",
+               "guid": "7b7e9085-f662-44f0-be2a-304e6fa5bbd5",
+               "id": "173",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "berserkJS —— 前端网络（性能）监测工具-WinFrom控件库|.net开源控件库|HZHControls官网",
+               "type": "url",
+               "url": "http://www.hzhcontrols.com/new-472950.html"
+            }, {
+               "date_added": "13347193540711741",
+               "date_last_used": "0",
+               "guid": "0cc7f464-fdcc-476d-998a-70122cb64de0",
+               "id": "174",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Quick Start — SlimerJS 1.0.0 documentation",
+               "type": "url",
+               "url": "https://docs.slimerjs.org/current/quick-start.html"
+            }, {
+               "date_added": "13347193630271031",
+               "date_last_used": "0",
+               "guid": "ca6e79dd-ed6e-4dac-9a3c-d1fc7754ba84",
+               "id": "175",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "最受欢迎的 5 款 Node.js 端到端测试框架 - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/26034302?hmsr=toutiao.io&utm_id=0&wd=&eqid=caba604200021c0b00000004650904dd"
+            } ],
+            "date_added": "13345636961878542",
+            "date_last_used": "0",
+            "date_modified": "13347193630271031",
+            "guid": "8b873b7b-86ec-499b-b36f-7a869f80ebd0",
+            "id": "141",
+            "name": "爬虫试试网站",
+            "type": "folder"
+         } ],
+         "date_added": "13313656941657104",
+         "date_last_used": "0",
+         "date_modified": "13345637035606872",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13314625167312872",
+            "date_last_used": "0",
+            "date_modified": "13314625167313081",
+            "guid": "6f060c32-2602-4b54-bcaf-8385c3e275c2",
+            "id": "9",
+            "name": "study",
+            "type": "folder"
+         } ],
+         "date_added": "13313656941657252",
+         "date_last_used": "0",
+         "date_modified": "13314625146740066",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "8",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13313656941359269",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "10",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
