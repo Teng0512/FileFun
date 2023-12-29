@@ -5,7 +5,7 @@
 @File    : pdf_def_fun.py
 @Software: PyCharm
 """
-import PyPDF2,os,natsort,glob
+import PyPDF2,os,natsort,glob,pypdf
 """
 natsort.natsorted()
 由于文件名是字符串，会按照字符的ASCII值进行排序（1 10 11……18 19 2 20 21……），会导致数字顺序不正确。
