@@ -5,7 +5,10 @@
 @File    : pdf_def_fun.py
 @Software: PyCharm
 """
-import PyPDF2,os,natsort,glob,pypdf
+import PyPDF2, os, natsort, glob, pypdf, easyocr, pdfrw
+from easyocr import Reader
+from reportlab.pdfgen import canvas
+
 """
 natsort.natsorted()
 由于文件名是字符串，会按照字符的ASCII值进行排序（1 10 11……18 19 2 20 21……），会导致数字顺序不正确。
@@ -180,11 +183,70 @@ def pdf_password(file_path, new_file_path, password):
     resultPdf.close()
 
 
+def extract_and_write_pdf(input_pdf_path, output_pdf_path):
+    """
+    读取 PDF 文件内容并输出到新的 PDF 文件。
+
+    :param input_pdf_path: 输入 PDF 文件的路径
+    :param output_pdf_path: 输出 PDF 文件的路径
+    """
+    # 打开输入的 PDF 文件
+    with open(input_pdf_path, 'rb') as input_file:
+        pdf_reader = PyPDF2.PdfReader(input_file)
+
+        # 创建一个新的 PDF 文件写入器
+        with open(output_pdf_path, 'wb') as output_file:
+            pdf_writer = PyPDF2.PdfWriter()
+
+            # 遍历输入 PDF 的每一页
+            for page_num in range(len(pdf_reader.pages)):
+                # 获取当前页的内容
+                page = pdf_reader.pages[page_num]
+
+                # 将当前页添加到输出 PDF
+                pdf_writer.add_page(page)
+
+            # 将输出 PDF 写入文件
+            pdf_writer.write(output_file)
+
+def ocr_and_write_pdf(input_pdf_path, output_pdf_path):
+    """
+    使用 OCR 技术读取模糊 PDF 文件并输出为清晰的 PDF 文件。
+
+    :param input_pdf_path: 输入 PDF 文件的路径
+    :param output_pdf_path: 输出 PDF 文件的路径
+    """
+    # 读取输入的 PDF 文件
+    reader = Reader(['ch_sim+ch_tra'])
+
+    # 打开输入的 PDF 文件
+    with open(input_pdf_path, 'rb') as input_file:
+        # 创建 PDF 文件对象
+        c = canvas.Canvas(output_pdf_path, pagesize=letter)
+
+        # 遍历输入 PDF 的每一页
+        for page_num, page in reader.readtext(input_file):
+            # 获取识别的文本
+            text = page[1]
+
+            # 设置字体和字号
+            c.setFont("Helvetica", 12)
+
+            # 在 PDF 页面上添加文本
+            c.drawString(72, 792, text)
+
+            # 保存当前页面
+            c.showPage()
+
+    # 关闭 PDF 文件对象
+    c.save()
+
+
 if __name__ == '__main__':
     # pdf_path = r'\pdf_file\02_dockerfile实践.pdf'
     # read_page(path=pdf_path, page=20)
     # read_pdf_all(path=pdf_path)
-    new_path = 'data'
+    #new_path = 'data'
 
     # write_pdf_new(old_path=pdf_path, new_path=new_path, not_read_pages=[])
     # os.chdir(r'F:\Download\code_edit\FileFun\src\pdf_fun\pdf_file')
@@ -199,9 +261,10 @@ if __name__ == '__main__':
     # # pdf_rotate(file_path=file_path, new_file_path= new_file_path)
     # pdf_rotate(file_path=file_path, new_file_path=new_file_path, page=19)
     # 添加水印
-    old_file = r".\pdf_file\02_dockerfile实践.pdf"
-    picture_file = r".\data\merge\a.pdf"
-    new_file = r".\data\merge\b.pdf"
+    old_file = r".\pdf_file\Python 3网络爬虫开发实战(第二版) (崔庆才).pdf"
+    #picture_file = r".\data\merge\a.pdf"
+    new_file = r".\data\merge\Python 3网络爬虫开发实战(第二版) (崔庆才)1.pdf"
     # pdf_merge_page(old_file=old_file,picture_file=picture_file,new_file=new_file)
     # 给文件添加密码
-    pdf_password(old_file, new_file, "abcd")
+    #pdf_password(old_file, new_file, "abcd")
+    ocr_and_write_pdf(old_file, new_file)

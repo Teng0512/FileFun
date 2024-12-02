@@ -17,6 +17,8 @@ dependencies = [
     "selenium>=4.16.0",
     "pytest>=7.4.3",
     "webdriver-manager>=4.0.1",
+    "winsdk>=1.0.0b10",
+    "win10toast>=0.9",
 ]
 requires-python = "==3.10.*"
 readme = "README.md"
